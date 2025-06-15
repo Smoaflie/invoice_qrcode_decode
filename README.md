@@ -9,7 +9,6 @@
     ·
     <a href="https://github.com/Smoaflie/invoice_qrcode_decode/issues">提出新特性</a>
   </p>
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -25,9 +24,9 @@
 
 ### 界面展示
 
-![pc](static\images\pc.png)
+![pc](static/images/pc.png)
 
-![app](static\images\app.png)
+![app](static/images/app.png)
 
 ###### **使用方法**
 
