@@ -9,6 +9,7 @@
     ·
     <a href="https://github.com/Smoaflie/invoice_qrcode_decode/issues">提出新特性</a>
   </p>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -30,7 +31,7 @@
 
 ###### **使用方法**
 
-1. 编译或在Release页下载.apk文件,安装到手机上并启动
+1. 编译或在[Release页](https://github.com/Smoaflie/invoice_qrcode_decode/releases/tag/apk)下载.apk文件,安装到手机上并启动
 
 2. 授予APP相机权限
 
